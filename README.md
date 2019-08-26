@@ -1,2 +1,2 @@
-# react-container
-Docker environment to create a React project
+# wordpress-container
+Docker environment to create a Wordpress project
