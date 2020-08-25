@@ -16,7 +16,7 @@ If you don't have Docker installed please visit:
 
 This is a simple wordpress environment containing Wordpress and MariaDB images.
 
-Environment veriables are used in this project in order to make this infrastructure more flexible, the following varibales are used in the `.env` file.
+Environment variables are used in this project in order to make this infrastructure more flexible, the following variables are used in the `.env` file.
 
 ```
 APP_PORT
@@ -33,7 +33,7 @@ Go to the root of this project where the `docker-compose.yml` file in placed the
 docker-compose up -d
 ```
 
-The application will be placed in the `./src` folder automatically created if you don't have the `./src` folder and if you are running this command for first time. Wait until finish the download of all wordpress core files then you can go to the browser of your choice and access the following url:
+The application will be placed in the `./src` folder automatically created if you don't have the `./src` folder and if you are running this command for the first time. Wait until finish the download of all Wordpress core files then you can go to the browser of your choice and access the following url:
 
 ```
 http://localhost:8080
