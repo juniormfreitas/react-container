@@ -14,7 +14,7 @@ If you don't have Docker installed please visit:
 
 ## The Environment
 
-This is a simple wordpress environment containing Wordpress and MariaDB images.
+This is a simple Wordpress environment containing Wordpress and MariaDB images.
 
 Environment variables are used in this project in order to make this infrastructure more flexible, the following variables are used in the `.env` file.
 
@@ -39,7 +39,7 @@ The application will be placed in the `./src` folder automatically created if yo
 http://localhost:8080
 ```
 
-So you can create a wordpress website and start to develop new themes or new plugins.
+So you can create a Wordpress website and start to develop new themes or new plugins.
 
 To stop all the services you must run the following command:
 
